@@ -58,7 +58,7 @@
     "parse-json-pretty": "^0.1.0",
     "strip-json-comments": "^2.0.1",
     "umi-notify": "^0.1.0",
-    "umi-test": "^0.6.0-beta.1",
+    "umi-test": "^1.9.6",
     "update-notifier": "^2.3.0",
     "yargs": "^8.0.1"
   },
